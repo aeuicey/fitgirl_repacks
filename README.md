@@ -10,17 +10,17 @@
 [https://iflycn.github.io/fitgirl_repacks/](https://iflycn.github.io/fitgirl_repacks/)
 
 ## 更新
-最后更新时间 `2026-08-07`，共 `6766` 款游戏。
-- Headquarters: Cold War – v1.01.11 + Operation Pacify DLC
-- Retrowave 2 + 3 DLCs/Bonuses
-- Korea. IL-2 Series: Premium Edition – v1.002 + 3 DLCs
-- Aether & Iron: Deluxe Edition, v1.1.677 + 2 Bonus DLCs
-- Akatori
-- Ostranauts – v1.0.0.7 + Bonus OST
-- Wingspan: Special Edition – v1.8.1170.0722.1321 + 9 DLCs/Bonuses
-- Cyber Farmer – v1.0.02
-- Car Dealer Simulator + Up 2 You Pack Bundle, v1.0.0.5272 Hotfix #231 + DLC
-- Kusan: City of Wolves
+最后更新时间 `2026-09-11`，共 `6781` 款游戏。
+- Alchemy Factory – v1.0.4917 (Release)
+- EA SPORTS FC 26 – v1.6.6/v1.0.139.20381 + Offline DLCs + The World’s Game [Monkey Repack]
+- No Man’s Sky – v7.0 (178763, Cosmos Update) + 2 DLCs + Bonus OST
+- HOT WHEELS Infinite Rush + Just for Fun Pack DLC
+- Against the Storm: Complete Edition, v1.10.4R + 4 DLCs/Bonuses
+- CODE VEIN II: Ultimate Edition, v2.0.1.0 (Denuvoless) + 7 DLCs
+- Valheim – v1.0.7 (Release) + 2 DLCs/Bonuses
+- Mega Man Star Force Legacy Collection – Build 23297979 (Denuvoless) + 4 DLCs
+- Honeycomb: The World Beyond
+- Homura Hime: Soundtrack Bundle, v1.0.8 + Bonus OST
 - ……
 
 ## 感谢
